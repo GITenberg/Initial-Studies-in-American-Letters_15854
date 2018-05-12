@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '4050'
     url: http://www.gutenberg.org/2009/agents/4050
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15854#Initial-Studies-in-American-Letters
 gutenberg_issued: '2005-05-18'
 gutenberg_type: Text
 identifiers:
